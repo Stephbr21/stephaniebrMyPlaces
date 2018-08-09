@@ -1,0 +1,56 @@
+.venueComponent{
+	background-color: rgb(242, 242, 242, 0.5);
+	width: auto;
+	height: auto;
+	margin-bottom: 6px;
+	padding: 13px;
+	scroll-behavior: auto;
+	border-radius: 6px;
+}
+
+h2{
+	color: rgb(0, 0, 0);
+	width: 100%;
+}
+/* 
+.postBtn, .todosBtn{
+	padding: 5px;
+	background-color: black;
+	border-radius: 5px;
+	margin-right: 10px;
+	color: white;
+} */
+
+.postBtn, .todosBtn{
+	border: none;
+	background: #090909;
+	color: #f2f2f2;
+	padding: 8px;
+	font-size: 12px;
+	border-radius: 5px;
+	position: relative;
+	margin-left: 5px;
+}
+
+.postBtn:hover{
+	border: none;
+	background: #b19404;
+	color: black;
+	padding: 8px;
+	font-size: 12px;
+	border-radius: 5px;
+	position: relative;
+	margin-left: 5px;
+}
+
+.todosBtn:hover{
+	border: none;
+	background: #b19404;
+	color: black;
+	padding: 8px;
+	font-size: 12px;
+	border-radius: 5px;
+	position: relative;
+	margin-left: 5px;
+}
+

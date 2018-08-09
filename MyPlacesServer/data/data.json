@@ -1,0 +1,1518 @@
+{
+	"meta": {
+		"code": 200,
+		"requestId": "5b625bafdd57974687a7f9b7"
+	},
+	"response": {
+		"suggestedFilters": {
+			"header": "Tap to show:",
+			"filters": [
+				{
+					"name": "Open now",
+					"key": "openNow"
+				}
+			]
+		},
+		"suggestedRadius": 1152,
+		"headerLocation": "Cartago",
+		"headerFullLocation": "Cartago",
+		"headerLocationGranularity": "city",
+		"query": "restaurant",
+		"totalResults": 42,
+		"suggestedBounds": {
+			"ne": {
+				"lat": 9.866028328203772,
+				"lng": -83.91334618597648
+			},
+			"sw": {
+				"lat": 9.853056650382914,
+				"lng": -83.93045586412171
+			}
+		},
+		"groups": [
+			{
+				"type": "Recommended Places",
+				"name": "recommended",
+				"items": [
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "511d8a76e4b09b0f7ef8afe5",
+							"name": "Yokohama",
+							"contact": {},
+							"location": {
+								"address": "Plaza Boulevar",
+								"lat": 9.856489012532679,
+								"lng": -83.92421380227357,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.856489012532679,
+										"lng": -83.92421380227357
+									}
+								],
+								"distance": 399,
+								"cc": "CR",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Plaza Boulevar",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d111941735",
+									"name": "Japanese Restaurant",
+									"pluralName": "Japanese Restaurants",
+									"shortName": "Japanese",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/japanese_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-511d8a76e4b09b0f7ef8afe5-0"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "525c151e11d2958169015a03",
+							"name": "Cocina La Vida",
+							"contact": {},
+							"location": {
+								"address": "Frente Al Colegio San Luis Gonzaga",
+								"lat": 9.860997601446895,
+								"lng": -83.92334034741947,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.860997601446895,
+										"lng": -83.92334034741947
+									}
+								],
+								"distance": 446,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Frente Al Colegio San Luis Gonzaga",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d16a941735",
+									"name": "Bakery",
+									"pluralName": "Bakeries",
+									"shortName": "Bakery",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-525c151e11d2958169015a03-1"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "5851ee2c158b964b6141efe9",
+							"name": "Taller Gastronomico Irie",
+							"contact": {},
+							"location": {
+								"address": "50 metros sur de la Esquina sur oeste de la Corte de Cartago",
+								"crossStreet": "Calle 5 entre avenida 4 y 6",
+								"lat": 9.862271,
+								"lng": -83.917756,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.862271,
+										"lng": -83.917756
+									}
+								],
+								"distance": 598,
+								"cc": "CR",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"50 metros sur de la Esquina sur oeste de la Corte de Cartago (Calle 5 entre avenida 4 y 6)",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d155941735",
+									"name": "Gastropub",
+									"pluralName": "Gastropubs",
+									"shortName": "Gastropub",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/gastropub_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-5851ee2c158b964b6141efe9-2"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "516b2dd7e4b0ee18ac52be93",
+							"name": "Pizzeria Villa Italia",
+							"contact": {},
+							"location": {
+								"lat": 9.860086915817192,
+								"lng": -83.9182134205347,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.860086915817192,
+										"lng": -83.9182134205347
+									}
+								],
+								"distance": 381,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1ca941735",
+									"name": "Pizza Place",
+									"pluralName": "Pizza Places",
+									"shortName": "Pizza",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/pizza_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-516b2dd7e4b0ee18ac52be93-3"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "5935cafb340a584be5c5467a",
+							"name": "Subway",
+							"contact": {},
+							"location": {
+								"address": "Plaza Iztarú, 600 m oeste de Entrada Principal del TEC",
+								"lat": 9.858532610733057,
+								"lng": -83.91722967191171,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.858532610733057,
+										"lng": -83.91722967191171
+									}
+								],
+								"distance": 403,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Plaza Iztarú, 600 m oeste de Entrada Principal del TEC",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c5941735",
+									"name": "Sandwich Place",
+									"pluralName": "Sandwich Places",
+									"shortName": "Sandwiches",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-5935cafb340a584be5c5467a-4"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4f0a15a5e4b039f5aea713d1",
+							"name": "Il Palio",
+							"contact": {},
+							"location": {
+								"lat": 9.865398566166714,
+								"lng": -83.92506306210988,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.865398566166714,
+										"lng": -83.92506306210988
+									}
+								],
+								"distance": 961,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1ca941735",
+									"name": "Pizza Place",
+									"pluralName": "Pizza Places",
+									"shortName": "Pizza",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/pizza_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4f0a15a5e4b039f5aea713d1-5"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4f6d449be4b0e3b3bcd4608e",
+							"name": "Soda La Rústica",
+							"contact": {},
+							"location": {
+								"address": "Cartago",
+								"lat": 9.86074356507675,
+								"lng": -83.91709674591904,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.86074356507675,
+										"lng": -83.91709674591904
+									}
+								],
+								"distance": 522,
+								"cc": "CR",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c7941735",
+									"name": "Snack Place",
+									"pluralName": "Snack Places",
+									"shortName": "Snacks",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/snacks_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4f6d449be4b0e3b3bcd4608e-6"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "5054fc85e4b0f42fb702709b",
+							"name": "Kanalu",
+							"contact": {},
+							"location": {
+								"address": "Costado Sur de Plaza Yglesias",
+								"crossStreet": "Avenida 5",
+								"lat": 9.8624988635957,
+								"lng": -83.9235200982661,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.8624988635957,
+										"lng": -83.9235200982661
+									}
+								],
+								"distance": 596,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Costado Sur de Plaza Yglesias (Avenida 5)",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d16c941735",
+									"name": "Burger Joint",
+									"pluralName": "Burger Joints",
+									"shortName": "Burgers",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/burger_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-5054fc85e4b0f42fb702709b-7"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4c4a5d6d5609c9b64e808a8f",
+							"name": "Pizza Hut",
+							"contact": {},
+							"location": {
+								"address": "frente a Mucap",
+								"crossStreet": "c. 2 e\/ Av. 2 y Ruta 10",
+								"lat": 9.864978228144805,
+								"lng": -83.92014624164068,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.864978228144805,
+										"lng": -83.92014624164068
+									}
+								],
+								"distance": 798,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"frente a Mucap (c. 2 e\/ Av. 2 y Ruta10)",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1ca941735",
+									"name": "Pizza Place",
+									"pluralName": "Pizza Places",
+									"shortName": "Pizza",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/pizza_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": true,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4c4a5d6d5609c9b64e808a8f-8"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4e3656af922e1153a52db62c",
+							"name": "Subway",
+							"contact": {},
+							"location": {
+								"address": "Frente a las Ruinas",
+								"crossStreet": "Av 2, Calle 2",
+								"lat": 9.86480639389824,
+								"lng": -83.92014633911636,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.86480639389824,
+										"lng": -83.92014633911636
+									}
+								],
+								"distance": 779,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Frente a las Ruinas (Av 2, Calle 2)",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c5941735",
+									"name": "Sandwich Place",
+									"pluralName": "Sandwich Places",
+									"shortName": "Sandwiches",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": true,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4e3656af922e1153a52db62c-9"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "57425b6c498e30313278f5e2",
+							"name": "McDonald's",
+							"contact": {},
+							"location": {
+								"address": "Costado de la Plaza Mayor de Cartago",
+								"lat": 9.863872038056893,
+								"lng": -83.92086629307708,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.863872038056893,
+										"lng": -83.92086629307708
+									}
+								],
+								"distance": 672,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Costado de la Plaza Mayor de Cartago",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d16e941735",
+									"name": "Fast Food Restaurant",
+									"pluralName": "Fast Food Restaurants",
+									"shortName": "Fast Food",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/fastfood_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-57425b6c498e30313278f5e2-10"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "564e1c6b498e7b03a206b536",
+							"name": "RostiPollos Cartago",
+							"contact": {},
+							"location": {
+								"address": "Cartago",
+								"lat": 9.864585058196377,
+								"lng": -83.91868803359866,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.864585058196377,
+										"lng": -83.91868803359866
+									}
+								],
+								"distance": 787,
+								"cc": "CR",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c4941735",
+									"name": "Restaurant",
+									"pluralName": "Restaurants",
+									"shortName": "Restaurant",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-564e1c6b498e7b03a206b536-11"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "52a118c111d2032a56b1e1ff",
+							"name": "Boutique Café",
+							"contact": {},
+							"location": {
+								"lat": 9.861457644825585,
+								"lng": -83.91587067813697,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.861457644825585,
+										"lng": -83.91587067813697
+									}
+								],
+								"distance": 677,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d143941735",
+									"name": "Breakfast Spot",
+									"pluralName": "Breakfast Spots",
+									"shortName": "Breakfast",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/breakfast_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-52a118c111d2032a56b1e1ff-12"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "51d23b49e4b0412a447613f4",
+							"name": "Bar Reflexiones",
+							"contact": {},
+							"location": {
+								"lat": 9.858743412883697,
+								"lng": -83.92722481131267,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.858743412883697,
+										"lng": -83.92722481131267
+									}
+								],
+								"distance": 707,
+								"cc": "CR",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c4941735",
+									"name": "Restaurant",
+									"pluralName": "Restaurants",
+									"shortName": "Restaurant",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-51d23b49e4b0412a447613f4-13"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "52cf47df498e071f9283fb88",
+							"name": "La Parrilita Mexicana",
+							"contact": {},
+							"location": {
+								"address": "Diagonal alCalvario",
+								"lat": 9.864146655675619,
+								"lng": -83.91454911577756,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.864146655675619,
+										"lng": -83.91454911577756
+									}
+								],
+								"distance": 984,
+								"cc": "CR",
+								"city": "Barrio Los Angeles",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Diagonal al Calvario",
+									"Barrio Los Angeles",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c1941735",
+									"name": "Mexican Restaurant",
+									"pluralName": "Mexican Restaurants",
+									"shortName": "Mexican",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/mexican_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-52cf47df498e071f9283fb88-14"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4fd416dce4b06383cc96129b",
+							"name": "Restaurante Malanga Fusión Caribe",
+							"contact": {},
+							"location": {
+								"address": "San Blas",
+								"crossStreet": "1 km este del colegio Covao",
+								"lat": 9.865438706484642,
+								"lng": -83.91412389861945,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.865438706484642,
+										"lng": -83.91412389861945
+									}
+								],
+								"distance": 1121,
+								"cc": "CR",
+								"neighborhood": "San Blas",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"San Blas (1 km este del colegio Covao)",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d144941735",
+									"name": "Caribbean Restaurant",
+									"pluralName": "Caribbean Restaurants",
+									"shortName": "Caribbean",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/caribbean_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": true,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"venuePage": {
+								"id": "110377128"
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4fd416dce4b06383cc96129b-15"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4d97d259b188721e0a561a37",
+							"name": "La Planchita Mexicana",
+							"contact": {},
+							"location": {
+								"address": "75 mts sur de la basílica",
+								"lat": 9.863085423887668,
+								"lng": -83.9143923001553,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.863085423887668,
+										"lng": -83.9143923001553
+									}
+								],
+								"distance": 917,
+								"cc": "CR",
+								"city": "Cartago",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"75 mts sur de la basílica",
+									"Cartago",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c1941735",
+									"name": "Mexican Restaurant",
+									"pluralName": "Mexican Restaurants",
+									"shortName": "Mexican",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/mexican_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4d97d259b188721e0a561a37-16"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4e614a2bd4c06542aa7265f1",
+							"name": "Otero's Pizza",
+							"contact": {},
+							"location": {
+								"address": "Del Calvario de la Basílica Nuestra Señora de los Ángeles 100 metros Norte",
+								"lat": 9.864712729544783,
+								"lng": -83.91427595189812,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.864712729544783,
+										"lng": -83.91427595189812
+									}
+								],
+								"distance": 1050,
+								"cc": "CR",
+								"city": "Los Angeles",
+								"state": "Cartago",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Del Calvario de la Basílica Nuestra Señora de los Ángeles 100 metros Norte",
+									"Los Angeles",
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1ca941735",
+									"name": "Pizza Place",
+									"pluralName": "Pizza Places",
+									"shortName": "Pizza",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/pizza_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4e614a2bd4c06542aa7265f1-17"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "53d94bce498ea9f619dca5c1",
+							"name": "Lomitos Grill",
+							"contact": {},
+							"location": {
+								"lat": 9.853646272102043,
+								"lng": -83.92967815147873,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.853646272102043,
+										"lng": -83.92967815147873
+									}
+								],
+								"distance": 1075,
+								"cc": "CR",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d1c4941735",
+									"name": "Restaurant",
+									"pluralName": "Restaurants",
+									"shortName": "Restaurant",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-53d94bce498ea9f619dca5c1-18"
+					},
+					{
+						"reasons": {
+							"count": 0,
+							"items": [
+								{
+									"summary": "This spot is popular",
+									"type": "general",
+									"reasonName": "globalInteractionReason"
+								}
+							]
+						},
+						"venue": {
+							"id": "4f21c736e4b0617641920dc9",
+							"name": "La canela",
+							"contact": {},
+							"location": {
+								"lat": 9.861134626303807,
+								"lng": -83.92156031987983,
+								"labeledLatLngs": [
+									{
+										"label": "display",
+										"lat": 9.861134626303807,
+										"lng": -83.92156031987983
+									}
+								],
+								"distance": 375,
+								"cc": "CR",
+								"country": "Costa Rica",
+								"formattedAddress": [
+									"Costa Rica"
+								]
+							},
+							"categories": [
+								{
+									"id": "4bf58dd8d48988d143941735",
+									"name": "Breakfast Spot",
+									"pluralName": "Breakfast Spots",
+									"shortName": "Breakfast",
+									"icon": {
+										"prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/breakfast_",
+										"suffix": ".png"
+									},
+									"primary": true
+								}
+							],
+							"verified": false,
+							"stats": {
+								"tipCount": 0,
+								"usersCount": 0,
+								"checkinsCount": 0,
+								"visitsCount": 0
+							},
+							"beenHere": {
+								"count": 0,
+								"lastCheckinExpiredAt": 0,
+								"marked": false,
+								"unconfirmedCount": 0
+							},
+							"photos": {
+								"count": 0,
+								"groups": []
+							},
+							"hereNow": {
+								"count": 0,
+								"summary": "Nobody here",
+								"groups": []
+							}
+						},
+						"referralId": "e-0-4f21c736e4b0617641920dc9-19"
+					}
+				]
+			}
+		]
+	}
+}
